@@ -1,0 +1,16 @@
+{
+    "appname": "neutralinojs-react-typescript",
+    "appport": "0",
+    "mode": "window",
+    "url": "/",
+    "window": {
+        "title": "My NeutralinoJS Application",
+        "width": "1000",
+        "height": "700",
+        "fullscreen": false,
+        "alwaysontop": false,
+        "iconfile": "logo.png",
+        "enableinspector": false,
+        "borderlesswindow": false
+    }
+}

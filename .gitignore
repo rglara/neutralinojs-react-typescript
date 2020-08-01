@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+
+# ignore NeutralinoJS downloaded for packaging
+server/
+
+# ignore embedded client library (copied from downloaded package)
+public/assets/neutralino.js
+
+# ignore "compiled" React build directory and final NeutralinoJS packaging
+build/
+dist/
